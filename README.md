@@ -1,2 +1,2 @@
-Hi! Here we start learning Python 3.11.2
+Hi! Here we start learning Python on version 3.11.2
 
